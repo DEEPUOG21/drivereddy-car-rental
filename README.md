@@ -12,43 +12,26 @@ https://drivereddy-car-rental.vercel.app
 
 
 ✨ Features
-
 🚗 View available cars
-
 📅 Select rental dates
-
 📝 Book a car easily
-
 🔐 User authentication system
-
 📊 Booking management
-
 📱 Responsive design
 
 🛠️ Tech Stack
 
 Frontend
-
 React.js
-
 CSS / Tailwind / Bootstrap (update based on yours)
-
 Backend
-
 Node.js
-
 Express.js
-
 Database
-
 MongoDB Atlas
-
 Other Tools
-
 Git & GitHub
-
 Postman
-
 Vercel / Render (for deployment)
 
 📂 Project Structure
@@ -84,14 +67,11 @@ npm install
 5️⃣ Run the Project
 
 Backend:
-
 npm run server
 
 
 Frontend:
-
 npm start
-
 
 Make sure MongoDB is running or connected to MongoDB Atlas.
 
@@ -106,27 +86,18 @@ PORT=5000
 🎯 Key Learnings From This Project
 
 Built a complete MERN stack application
-
 Designed RESTful APIs
-
 Implemented authentication & protected routes
-
 Connected frontend with backend
-
 Managed state and API calls efficiently
-
 Deployed full-stack application on cloud
 
 🔮 Future Improvements
 
 💳 Add payment gateway integration (Stripe/Razorpay)
-
 🧑‍💼 Admin dashboard
-
 📊 Revenue analytics
-
 📧 Email confirmation after booking
-
 🚀 Real-time availability system
 
 🤝 Contribution
